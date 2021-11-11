@@ -1,2 +1,2 @@
-# Payroll-Management-System
-Software made using VB.Net
+# PMS
+Payroll Management System software made using VB.NET.
